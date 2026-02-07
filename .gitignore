@@ -1,0 +1,4 @@
+data.db
+website/settings.py
+venv/*
+log/*
